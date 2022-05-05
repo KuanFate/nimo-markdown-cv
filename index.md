@@ -3,6 +3,8 @@ layout: cv
 title: Wode "Nimo" Ni
 email:
   text: 386538588@qq.com
+phone:
+  text: 18640837562
 ---
 
 #  **李廷宽**
