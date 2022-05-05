@@ -5,7 +5,7 @@ email:
   text: 386538588@qq.com
 ---
 
-# Wode **李廷宽**
+#  **李廷宽**
 
 <!--
 include contact information from the front matter
