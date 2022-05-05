@@ -1,10 +1,21 @@
 ---
 layout: cv
-title: 李廷宽
+title: Wode "Nimo" Ni
 email:
   text: 386538588@qq.com
-工作年限：3年
 ---
+
+# Wode **李廷宽**
+
+<!--
+include contact information from the front matter
+Supported arguments:
+    - homepage: url, text
+    - phone
+    - email
+-->
+
+{% include cv-contact.html %}
 
 # 工作经历
 
